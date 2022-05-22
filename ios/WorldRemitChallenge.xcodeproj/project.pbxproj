@@ -11,9 +11,18 @@
 		13B07FBC1A68108700A75B9A /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 13B07FB01A68108700A75B9A /* AppDelegate.m */; };
 		13B07FBF1A68108700A75B9A /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 13B07FB51A68108700A75B9A /* Images.xcassets */; };
 		13B07FC11A68108700A75B9A /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 13B07FB71A68108700A75B9A /* main.m */; };
+		3309268551DD4C48B507CCA6 /* Inter-ExtraLight.ttf in Resources */ = {isa = PBXBuildFile; fileRef = DA4BD565A8374FDA90985ED5 /* Inter-ExtraLight.ttf */; };
+		3CD09F36CC454BDDBA50180D /* Inter-ExtraBold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = DB2BA941DBEB43AEB859C923 /* Inter-ExtraBold.ttf */; };
+		422A6E74753B457DAC3C17A5 /* Inter-Medium.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 2F44BDA89A4C434789043348 /* Inter-Medium.ttf */; };
+		4A0FE0306AD84898BB0192E3 /* Inter-Bold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = BE6E7FB41C6543B09482593F /* Inter-Bold.ttf */; };
 		4FF5F43B9BC837AF09588B4C /* libPods-WorldRemitChallenge-WorldRemitChallengeTests.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 40C2C020BB7EF0FF20C5F4A3 /* libPods-WorldRemitChallenge-WorldRemitChallengeTests.a */; };
+		734EAE495F7F4F2B90B61AA1 /* Inter-Black.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 3D2FA7CF8B8542A2B7B1BF85 /* Inter-Black.ttf */; };
+		793FB3F979B3486EB6A13F75 /* Inter-Regular.ttf in Resources */ = {isa = PBXBuildFile; fileRef = B691028EE45C43F290C9B34A /* Inter-Regular.ttf */; };
 		7D7AE0389EB306E9658AD74E /* libPods-WorldRemitChallenge.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 2DAA94289E47C14AFF0BBD75 /* libPods-WorldRemitChallenge.a */; };
 		81AB9BB82411601600AC10FF /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 81AB9BB72411601600AC10FF /* LaunchScreen.storyboard */; };
+		AEC481E4FC004ADEA5BA01D5 /* Inter-SemiBold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 768C4EE2AC494B5FADB0FDD7 /* Inter-SemiBold.ttf */; };
+		BBE3DDC1840B4360BB3916C6 /* Inter-Thin.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 320EC88DDB0749F2814BC6E1 /* Inter-Thin.ttf */; };
+		FB00CF9F0E46492780922DDD /* Inter-Light.ttf in Resources */ = {isa = PBXBuildFile; fileRef = CF907E16E5F34024982FD57C /* Inter-Light.ttf */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -37,10 +46,19 @@
 		13B07FB61A68108700A75B9A /* Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; name = Info.plist; path = WorldRemitChallenge/Info.plist; sourceTree = "<group>"; };
 		13B07FB71A68108700A75B9A /* main.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = main.m; path = WorldRemitChallenge/main.m; sourceTree = "<group>"; };
 		2DAA94289E47C14AFF0BBD75 /* libPods-WorldRemitChallenge.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-WorldRemitChallenge.a"; sourceTree = BUILT_PRODUCTS_DIR; };
+		2F44BDA89A4C434789043348 /* Inter-Medium.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = "Inter-Medium.ttf"; path = "../assets/fonts/Inter-Medium.ttf"; sourceTree = "<group>"; };
+		320EC88DDB0749F2814BC6E1 /* Inter-Thin.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = "Inter-Thin.ttf"; path = "../assets/fonts/Inter-Thin.ttf"; sourceTree = "<group>"; };
+		3D2FA7CF8B8542A2B7B1BF85 /* Inter-Black.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = "Inter-Black.ttf"; path = "../assets/fonts/Inter-Black.ttf"; sourceTree = "<group>"; };
 		40C2C020BB7EF0FF20C5F4A3 /* libPods-WorldRemitChallenge-WorldRemitChallengeTests.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-WorldRemitChallenge-WorldRemitChallengeTests.a"; sourceTree = BUILT_PRODUCTS_DIR; };
+		768C4EE2AC494B5FADB0FDD7 /* Inter-SemiBold.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = "Inter-SemiBold.ttf"; path = "../assets/fonts/Inter-SemiBold.ttf"; sourceTree = "<group>"; };
 		81AB9BB72411601600AC10FF /* LaunchScreen.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; name = LaunchScreen.storyboard; path = WorldRemitChallenge/LaunchScreen.storyboard; sourceTree = "<group>"; };
+		B691028EE45C43F290C9B34A /* Inter-Regular.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = "Inter-Regular.ttf"; path = "../assets/fonts/Inter-Regular.ttf"; sourceTree = "<group>"; };
+		BE6E7FB41C6543B09482593F /* Inter-Bold.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = "Inter-Bold.ttf"; path = "../assets/fonts/Inter-Bold.ttf"; sourceTree = "<group>"; };
 		BEECCFB7FCA590A5911632A4 /* Pods-WorldRemitChallenge.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-WorldRemitChallenge.release.xcconfig"; path = "Target Support Files/Pods-WorldRemitChallenge/Pods-WorldRemitChallenge.release.xcconfig"; sourceTree = "<group>"; };
+		CF907E16E5F34024982FD57C /* Inter-Light.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = "Inter-Light.ttf"; path = "../assets/fonts/Inter-Light.ttf"; sourceTree = "<group>"; };
 		D895A8CDB1F01D3C248EC878 /* Pods-WorldRemitChallenge-WorldRemitChallengeTests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-WorldRemitChallenge-WorldRemitChallengeTests.debug.xcconfig"; path = "Target Support Files/Pods-WorldRemitChallenge-WorldRemitChallengeTests/Pods-WorldRemitChallenge-WorldRemitChallengeTests.debug.xcconfig"; sourceTree = "<group>"; };
+		DA4BD565A8374FDA90985ED5 /* Inter-ExtraLight.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = "Inter-ExtraLight.ttf"; path = "../assets/fonts/Inter-ExtraLight.ttf"; sourceTree = "<group>"; };
+		DB2BA941DBEB43AEB859C923 /* Inter-ExtraBold.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = "Inter-ExtraBold.ttf"; path = "../assets/fonts/Inter-ExtraBold.ttf"; sourceTree = "<group>"; };
 		ED297162215061F000B7C4FE /* JavaScriptCore.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = JavaScriptCore.framework; path = System/Library/Frameworks/JavaScriptCore.framework; sourceTree = SDKROOT; };
 		F40ED13A7606B761377BDBA1 /* Pods-WorldRemitChallenge-WorldRemitChallengeTests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-WorldRemitChallenge-WorldRemitChallengeTests.release.xcconfig"; path = "Target Support Files/Pods-WorldRemitChallenge-WorldRemitChallengeTests/Pods-WorldRemitChallenge-WorldRemitChallengeTests.release.xcconfig"; sourceTree = "<group>"; };
 		FE72BEA26F950ED059E56FDE /* Pods-WorldRemitChallenge.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-WorldRemitChallenge.debug.xcconfig"; path = "Target Support Files/Pods-WorldRemitChallenge/Pods-WorldRemitChallenge.debug.xcconfig"; sourceTree = "<group>"; };
@@ -96,6 +114,22 @@
 			name = WorldRemitChallenge;
 			sourceTree = "<group>";
 		};
+		194F2DE189E74D1285B401B6 /* Resources */ = {
+			isa = PBXGroup;
+			children = (
+				3D2FA7CF8B8542A2B7B1BF85 /* Inter-Black.ttf */,
+				BE6E7FB41C6543B09482593F /* Inter-Bold.ttf */,
+				DB2BA941DBEB43AEB859C923 /* Inter-ExtraBold.ttf */,
+				DA4BD565A8374FDA90985ED5 /* Inter-ExtraLight.ttf */,
+				CF907E16E5F34024982FD57C /* Inter-Light.ttf */,
+				2F44BDA89A4C434789043348 /* Inter-Medium.ttf */,
+				B691028EE45C43F290C9B34A /* Inter-Regular.ttf */,
+				768C4EE2AC494B5FADB0FDD7 /* Inter-SemiBold.ttf */,
+				320EC88DDB0749F2814BC6E1 /* Inter-Thin.ttf */,
+			);
+			name = Resources;
+			sourceTree = "<group>";
+		};
 		2D16E6871FA4F8E400B85C8A /* Frameworks */ = {
 			isa = PBXGroup;
 			children = (
@@ -122,6 +156,7 @@
 				83CBBA001A601CBA00E9B192 /* Products */,
 				2D16E6871FA4F8E400B85C8A /* Frameworks */,
 				BA9D064A4E66E4F441585EB5 /* Pods */,
+				194F2DE189E74D1285B401B6 /* Resources */,
 			);
 			indentWidth = 2;
 			sourceTree = "<group>";
@@ -145,7 +180,6 @@
 				D895A8CDB1F01D3C248EC878 /* Pods-WorldRemitChallenge-WorldRemitChallengeTests.debug.xcconfig */,
 				F40ED13A7606B761377BDBA1 /* Pods-WorldRemitChallenge-WorldRemitChallengeTests.release.xcconfig */,
 			);
-			name = Pods;
 			path = Pods;
 			sourceTree = "<group>";
 		};
@@ -243,6 +277,15 @@
 			files = (
 				81AB9BB82411601600AC10FF /* LaunchScreen.storyboard in Resources */,
 				13B07FBF1A68108700A75B9A /* Images.xcassets in Resources */,
+				734EAE495F7F4F2B90B61AA1 /* Inter-Black.ttf in Resources */,
+				4A0FE0306AD84898BB0192E3 /* Inter-Bold.ttf in Resources */,
+				3CD09F36CC454BDDBA50180D /* Inter-ExtraBold.ttf in Resources */,
+				3309268551DD4C48B507CCA6 /* Inter-ExtraLight.ttf in Resources */,
+				FB00CF9F0E46492780922DDD /* Inter-Light.ttf in Resources */,
+				422A6E74753B457DAC3C17A5 /* Inter-Medium.ttf in Resources */,
+				793FB3F979B3486EB6A13F75 /* Inter-Regular.ttf in Resources */,
+				AEC481E4FC004ADEA5BA01D5 /* Inter-SemiBold.ttf in Resources */,
+				BBE3DDC1840B4360BB3916C6 /* Inter-Thin.ttf in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -451,6 +494,7 @@
 				CURRENT_PROJECT_VERSION = 1;
 				ENABLE_BITCODE = NO;
 				INFOPLIST_FILE = WorldRemitChallenge/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 12.0;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
@@ -476,6 +520,7 @@
 				CLANG_ENABLE_MODULES = YES;
 				CURRENT_PROJECT_VERSION = 1;
 				INFOPLIST_FILE = WorldRemitChallenge/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 12.0;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
